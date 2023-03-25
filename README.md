@@ -1,4 +1,4 @@
-To run the App
+## To run the App
 
 1. open the folder on the terminal then type "npm install -g expo-cli" in the directory.
 
@@ -7,7 +7,7 @@ To run the App
 You can open expo client on your device. After running above command, the development server will start and show a QR code in the terminal and web browser.
 You have to download expo mobile application for live previewing your new application within your mobile phone.
 
-A BMI calculator that measure your body mass index (BMI) and find out if you're a healthy weight.
+# A BMI calculator that measure your body mass index (BMI) and find out if you're a healthy weight.
 
 Understanding your BMI 
 
