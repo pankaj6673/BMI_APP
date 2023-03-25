@@ -5,9 +5,13 @@
 2. expo start
 
 You can open expo client on your device. After running above command, the development server will start and show a QR code in the terminal and web browser.
-You have to download expo mobile application for live previewing your new application within your mobile phone.
+You have to download expo mobile application for live previewing your new application within your mobile phone. Demonstration below:
 
-# A BMI calculator that measure your body mass index (BMI) and find out if you're a healthy weight.
+
+https://user-images.githubusercontent.com/32454890/227747837-e9821e84-855e-492c-95d6-ed1a1a937821.mp4
+
+
+## A BMI calculator that measure your body mass index (BMI) and find out if you're a healthy weight.
 
 Understanding your BMI 
 
