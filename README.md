@@ -1,6 +1,6 @@
 ## To run the App
 
-1. open the folder on the terminal then type "npm install -g expo-cli" in the directory.
+1. open the BMI folder on the terminal or in the VS code then type "npm install -g expo-cli" in the directory.
 
 2. expo start
 
